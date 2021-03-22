@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kadinsayani
-- 👀 I’m interested in full-stack software development, data science, wearables, sports, and fitness!
+- 👀 I’m interested in full-stack software development, mobile development, wearables, sports, and fitness!
 - 🌱 I’m currently studying CS @ University of Calgary
 - 💞️ I’m looking to collaborate on any full-stack projects utilizing MERN or MEAN.
 - 📫 You can reach me by email @ kadinsayani8@gmail.com
