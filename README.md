@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadinsayani
 - 👀 I’m interested in full-stack software development, mobile development, sports, and fitness!
-- 🌱 I’m currently studying Computer Science and Finance @ University of Calgary
+- 🌱 I’m currently studying Computer Science @ University of Calgary
 - 📫 You can reach me by email @ kadinsayani8@gmail.com
 
 <!---
