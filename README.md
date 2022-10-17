@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kadinsayani
-- 👀 I’m interested in software development!
 - 🌱 I’m currently studying Computer Science @ University of Calgary
 - 📫 You can reach me by email @ kadinsayani8@gmail.com
 
