@@ -12,7 +12,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true&count_private=true&hide=stars,contribs" />
-</a> <a href="https://github.com/anuraghazra/github-readme-stats">
+</a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&layout=compact&theme=highcontrast&hide_border=true&langs_count=6&hide=html,css,shell" />
 </a>
 
