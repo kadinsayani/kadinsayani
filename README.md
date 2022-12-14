@@ -1,4 +1,4 @@
-### About Me :
+### 😄: About Me :
 
 - 👋 Hi, I’m @kadinsayani
 - 🌱 Computer Science Student @ UCalgary passionate about all things software development
