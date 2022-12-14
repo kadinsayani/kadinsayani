@@ -5,7 +5,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kadinsayani)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kadinsayani&theme=highcontrast)](https://git.io/streak-stats)
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
