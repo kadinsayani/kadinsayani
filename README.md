@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kadinsayani&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani)](https://github.com/kadinsayani/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app)
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
