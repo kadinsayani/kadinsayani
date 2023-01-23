@@ -9,7 +9,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kadinsayani&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani)](https://github.com/anuraghazra/github-readme-stats)
+[![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
