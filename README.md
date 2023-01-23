@@ -7,8 +7,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kadinsayani&theme=highcontrast)](https://git.io/streak-stats)
-
 [![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
