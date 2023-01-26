@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @kadinsayani
 - 🌱 Computer Science Student @ UCalgary passionate about all things software development
 - 📫 You can reach me by email @ kadin.sayani@proton.me
-- 💻 https://www.kadinsayani.com
 
 ### :fire: My Stats :
 
