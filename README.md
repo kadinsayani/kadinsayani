@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="mailto:kadin.sayani@proton.me">
-        ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
     <a href="https://discordapp.com/users/256769299954401280">
 </p>
