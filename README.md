@@ -13,9 +13,7 @@
   
 <br>
 
-<div align="center">
 💡 **Interested in:** `Cybersecurity 🔒` `Operating Systems 💻` `Blockchain 🔗`
-</div>
     
 ## My Skill Set ⚡️
 <div align="center">
