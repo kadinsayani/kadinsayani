@@ -15,6 +15,9 @@
 <br>
 
 💡 **Interested in:** `Cybersecurity 🔒` `Operating Systems 💻` `Blockchain 🔗`
+    
+## My Skill Set ⚡️
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
 ## My Coding Stats 📈
 
