@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/greetings.gif" align="center" height="" width="500" />
+    <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
 ### <div align="center" width="200">I am Kadin, a Canadian Software Developer 🇨🇦. Currently sudying Computer Science @ UCalgary.</div>
