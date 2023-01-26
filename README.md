@@ -4,6 +4,7 @@
 
 ### <div align="center" width="200">I am Kadin, a Canadian Software Developer 🇨🇦. Currently sudying Computer Science @ UCalgary.</div>
 
+## Contact 🥷
 <p align="center">
     <a href="mailto:kadin.sayani@proton.me">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
