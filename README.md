@@ -1,14 +1,25 @@
-### :smile: About Me :
+<div align="center">
+    <img src="assets/greetings.gif" align="center" height="" width="500" />
+</div>
 
-- 👋 Hi, I’m @kadinsayani
-- 🌱 Computer Science Student @ UCalgary passionate about all things software development
-- 📫 You can reach me by email @ kadin.sayani@proton.me
+### <div align="center" width="200">I am Kadin, a Canadian Software Developer 🇨🇦. Currently sudying Computer Science @ UCalgary.</div>
 
-### :fire: My Stats :
+<p align="center">
+    <a href="mailto:kadin.sayani@proton.me">
+        ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+    </a>
+    <a href="https://discordapp.com/users/256769299954401280">
+</p>
+  
+<br>
 
-[![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+💡 **Interested in:** `Cybersecurity 🔒` `Operating Systems 💻` `Blockchain 🔗`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## My Coding Stats 📈
+
+<div align="center">   
+    <img src="https://github-readme-stats.vercel.app/api?username=iamludal&show_icons=true&count_private=true&hide_border=true" />
+</div>
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
