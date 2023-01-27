@@ -27,7 +27,7 @@
 ## My Coding Stats 📈
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&count_private=true&hide_border=true&theme=default" />
 </div>
   
 <!---
