@@ -3,7 +3,7 @@
 </div>
 
 ### <div align="center" width="200">I am Kadin, a Canadian Software Developer 🇨🇦</div>
-### <div align="center" width="200">Currently sudying Computer Science @ UCalgary</div>
+### <div align="center" width="200">Currently studying Computer Science @ UCalgary</div>
 
 ## Contact 🥷
 <p align="center">
