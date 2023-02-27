@@ -2,7 +2,7 @@
     <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <div align="center" width="200">I am Kadin, a Canadian Software Developer 🇨🇦</div>
+### <div align="center" width="200">I am Kadin, a Canadian Software Engineer 🇨🇦</div>
 ### <div align="center" width="200">Currently studying Computer Science @ UCalgary</div>
 
 ## Contact 🥷
