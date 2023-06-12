@@ -24,7 +24,7 @@
 ## My Coding Stats 📈
 
 <div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img src="https://streak-stats.demolab.com?user=kadinsayani&theme=dark)](https://git.io/streak-stats" />
 </div>
   
 <!---
