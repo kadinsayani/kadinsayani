@@ -7,8 +7,8 @@
 
 ## Contact 🥷
 <p align="center">
-    <a href="mailto:kadin.sayani@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+    <a href="mailto:kadin.sayani@icloud.com">
+        <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
     </a>
 </p>
     
