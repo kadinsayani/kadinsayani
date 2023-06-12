@@ -24,7 +24,7 @@
 ## My Coding Stats 📈
 
 <div align="center">   
-    <img src="https://streak-stats.demolab.com?user=kadinsayani&theme=dark)](https://git.io/streak-stats" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
 </div>
   
 <!---
