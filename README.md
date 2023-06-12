@@ -23,7 +23,9 @@
 
 ## My Coding Stats 📈
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=kadinsayani&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=kadinsayani&theme=dark"/>
+</div>
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
