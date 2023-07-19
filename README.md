@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
+
+## Stats 📈
+
+[![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
