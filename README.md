@@ -10,7 +10,7 @@
     <a href="mailto:kadin.sayani@icloud.com">
         <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
     </a>
-    <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000"/>
+    <img src="https://img.shields.io/github/followers/{kadinsayani}.svg?style=social&label=Follow&maxAge=2592000"/>
 </p>
     
 ## My Skill Set ⚡️
