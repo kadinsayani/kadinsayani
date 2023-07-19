@@ -10,6 +10,9 @@
     <a href="mailto:kadin.sayani@icloud.com">
         Email
     </a>
+    |
+    <a href>
+    </a>
 </p>
     
 ## My Skill Set ⚡️
