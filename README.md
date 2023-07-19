@@ -26,7 +26,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast"/>
 </div>
   
 <!---
