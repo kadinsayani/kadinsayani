@@ -24,7 +24,7 @@
 
 ## Stats 📈
 
-[![Kadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadinsayani)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github"/>
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
