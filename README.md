@@ -8,7 +8,7 @@
 ## Contact 🥷
 <p align="center">
     <a href="mailto:kadin.sayani@icloud.com">
-        <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
+        Email
     </a>
 </p>
     
