@@ -24,12 +24,14 @@
 
 ## Stats 📈
 
-<a href="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320"/>
-</a>
+<div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320"/>
+    </a>
+</div>
   
 <!---
 kadinsayani/kadinsayani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
