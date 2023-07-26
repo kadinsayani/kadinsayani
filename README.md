@@ -7,13 +7,13 @@
 
 ## Contact 🥷
 <p align="center">
-    <a href="mailto:kadin.sayani@icloud.com">
+    <a href="mailto:me@kadinsayani.dev">
         <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
     </a>
-    <img src="https://img.shields.io/github/followers/kadinsayani.svg?style=social&label=Follow&maxAge=2592000"/>
     <a href="https://www.linkedin.com/in/kadinsayani/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>
     </a>
+    <img src="https://img.shields.io/github/followers/kadinsayani.svg?style=social&label=Follow&maxAge=2592000"/>
 </p>
     
 ## My Skill Set ⚡️
