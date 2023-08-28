@@ -8,7 +8,7 @@
 ## Contact 🥷
 <p align="center">
     <a href="mailto:me@kadinsayani.dev">
-        <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/email-white?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/kadinsayani/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
