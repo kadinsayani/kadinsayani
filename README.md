@@ -2,9 +2,7 @@
     <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <div align="center" width="200"> > Software Developer</div>
-### <div align="center" width="200"><a href="https://kadinsayani.dev">kadinsayani.dev</a></div>
-### <div align="center" width="200"><img src="https://img.shields.io/github/followers/kadinsayani.svg?style=social&label=Follow My GitHub&maxAge=2592000"/></div>
+### <div align="center" width="200"> > Software Developer | <a href="https://kadinsayani.dev">kadinsayani.dev</a></div>
 
 ## <div align="center">Contact 🥷</div>
 <p align="center">
