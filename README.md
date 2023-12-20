@@ -26,11 +26,11 @@
 ## <div align="center">Stats 📈</div>
 
 <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=highcontrast&rank_icon=github"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=tokyonight&rank_icon=github">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&theme=tokyonight&rank_icon=github"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=highcontrast&layout=compact&langs_count=8&card_width=320"/>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=tokyonight&layout=compact&langs_count=8&card_width=320">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&theme=tokyonight&layout=compact&langs_count=8&card_width=320"/>
     </a>
 </div>
   
