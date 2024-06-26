@@ -2,7 +2,7 @@
     <img src="greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <div align="center" width="200"> > Software Developer | <a href="https://kadinsayani.dev">kadinsayani.dev</a></div>
+### <div align="center" width="200"> > Software Engineer | <a href="https://kadinsayani.dev">kadinsayani.dev</a></div>
 
 ## <div align="center">Contact 🥷</div>
 <p align="center">
