@@ -6,7 +6,7 @@
 
 ## <div align="center">Contact 🥷</div>
 <p align="center">
-    <a href="mailto:me@kadinsayani.dev">
+    <a href="mailto:kadin.sayani@icloud.com">
         <img src="https://img.shields.io/badge/Email-white?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/kadinsayani/">
