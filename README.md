@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide=stars,issues&hide_rank=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=tokyonight&hide=stars,issues&hide_rank=true" />
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadinsayani&layout=compact&theme=tokyonight&langs_count=6&hide=assembly,html,css" />
     </a -->
