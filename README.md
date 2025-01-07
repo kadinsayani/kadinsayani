@@ -1,12 +1,12 @@
 <div align="center">
-    <h2>Commit Activity</h2>
+    <h2>Commit Activity - LXD</h2>
     <div style="margin-bottom: 20px;">
+        <img alt="Total Commit Activity" 
+             src="https://img.shields.io/github/commit-activity/t/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
         <img alt="Yearly Commit Activity" 
              src="https://img.shields.io/github/commit-activity/y/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
         <img alt="Monthly Commit Activity" 
              src="https://img.shields.io/github/commit-activity/m/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
-        <img alt="Weekly Commit Activity" 
-             src="https://img.shields.io/github/commit-activity/w/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
     </div>
     <h2>Stats</h2>
     <div style="margin-top: 20px;">
