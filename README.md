@@ -1,12 +1,14 @@
+<h2>Commit Activity</h2>
 <p align="center">
     <!-- <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Editor-Vim-%2311AB00.svg?logo=vim&logoColor=white">
     <img src="https://img.shields.io/badge/Code-Go-%2300ADD8.svg?&logo=go&logoColor=white"> -->
-    Commit Activity
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/canonical/lxd?authorFilter=kadinsayani&style=flat&label=lxd&color=E95420">
 </p>
+
+<br>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=tokyonight&hide=stars,issues,contributed_to&hide_rank=true&show=prs_merged,prs_merged_percentage" />
