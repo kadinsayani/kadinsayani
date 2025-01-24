@@ -10,7 +10,7 @@
     </div>
     <h2>Stats</h2>
     <div style="margin-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=tokyonight&hide=stars,issues,contributed_to&hide_rank=true&show=prs_merged,prs_merged_percentage" 
+        <img src="https://github-readme-stats.vercel.app/api?username=kadinsayani&show_icons=true&include_all_commits=true&theme=tokyonight&hide=stars,contributed_to&hide_rank=true&show=prs_merged,prs_merged_percentage" 
              alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
     </div>
 </div>
